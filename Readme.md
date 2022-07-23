@@ -1,1 +1,2 @@
-Exercícios de Python Curso Gustavo Guanabara
+Exercícios de Python 
+Curso Gustavo Guanabara
