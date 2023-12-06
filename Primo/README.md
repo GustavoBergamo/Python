@@ -1,0 +1,1 @@
+Informs if the number is prime

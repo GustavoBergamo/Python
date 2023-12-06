@@ -1,0 +1,1 @@
+After reading a phrase says if it’s a palindrome 

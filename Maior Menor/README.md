@@ -1,0 +1,1 @@
+Reads 3 numbers and says which is the biggest and the smallest 
